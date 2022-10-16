@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **juandamtr@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFJtqm-IdA/wyQonbJb5EhgUuV45qq1vw/view?utm_content=DAFJtqm-IdA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFJtqm-IdA/wyQonbJb5EhgUuV45qq1vw/view?utm_content=DAFJtqm-IdA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [https://www.canva.com/design/DAFJtqm-IdA/wyQonbJb5EhgUuV45qq1vw/view?utm_content=DAFJtqm-IdA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
