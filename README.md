@@ -1,3 +1,18 @@
+<h1 align="center">Hi 👋, I'm Juan David Montaño Toro</h1>
+<h3 align="center">A full stack developer from Colombia</h3>
+
+- 🌱 I’m currently learning **Angular**
+
+- 💬 Ask me about **React, Nodejs, Express, MongoDB, Mysql,Python,**
+
+- 📫 How to reach me **juandamtr@gmail.com**
+
+- 📄 Know about my experiences [https://www.canva.com/design/DAFJtqm-IdA/wyQonbJb5EhgUuV45qq1vw/view?utm_content=DAFJtqm-IdA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFJtqm-IdA/wyQonbJb5EhgUuV45qq1vw/view?utm_content=DAFJtqm-IdA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/juandavidmdata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juandavidmdata" height="30" width="40" /></a>
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juandavidmdata/) 
