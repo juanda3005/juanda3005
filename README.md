@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan David Montaño Toro</h1>
 <h3 align="center">A full stack developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Angular**
-
-- 💬 Ask me about **Data Science, Python, Machine learning, React, Nodejs, Express, MongoDB, SQL, Python,**
+- 💬 Ask me about **Data Science, Python, Machine learning, React, Nodejs, Express, MongoDB, SQL.**
 
 - 📫 How to reach me **juandamtr@gmail.com**
 
