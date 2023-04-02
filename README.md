@@ -3,10 +3,10 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Data Science, Python, Mchine learning, React, Nodejs, Express, MongoDB, SQL, Python,**
+- 💬 Ask me about **Data Science, Python, Machine learning, React, Nodejs, Express, MongoDB, SQL, Python,**
 
 - 📫 How to reach me **juandamtr@gmail.com**
-- 
+
 - Visit my website https://juanda3005.github.io/Portfolio/
 
 <h3 align="left">Connect with me:</h3>
