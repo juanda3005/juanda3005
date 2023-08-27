@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan David Montaño Toro</h1>
-<h3 align="center">A full stack developer from Colombia</h3>
+<h3 align="center">A Data Scientist and Developer from Colombia</h3>
 
 - 💬 Ask me about **Data Science, Python, Machine learning, React, Nodejs, Express, MongoDB, SQL.**
 
